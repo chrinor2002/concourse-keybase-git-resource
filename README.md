@@ -24,6 +24,9 @@ Tracks the commits in a keybase git repository.
 
 #### Parameters
 
+* `KEYBASE_USERNAME`: *Required.* The keybase user to log into.
+* `KEYBASE_PAPERKEY`: *Required.* The paper key to use when logging into keybase.
+
 ... TODO: Document.
 
 ### `out`: Push to a repository.
